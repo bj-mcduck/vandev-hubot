@@ -1,9 +1,9 @@
 {
-  "name": "rewbot",
-  "version": "0.0.0",
+  "name": "devbot",
+  "version": "0.0.1",
   "private": true,
-  "author": "Brandon J McKay <bmckay@rew.ca>",
-  "description": "A simple helpful robot for your Company",
+  "author": "Brandon J McKay <admin@brandonjmckay.com>",
+  "description": "A simple helpful robot for VanDev",
   "dependencies": {
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
