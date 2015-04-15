@@ -1,1 +1,18 @@
-[]
+[
+  "hubot-diagnostics",
+  "hubot-dogeme",
+  "hubot-help",
+  "hubot-heroku-keepalive",
+  "hubot-group-alias",
+  "hubot-google-images",
+  "hubot-google-translate",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-standup-alarm",
+  "hubot-thank-you",
+  "hubot-troll",
+  "hubot-youtube"
+]
